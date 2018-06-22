@@ -1,0 +1,8 @@
+Ingredients:
+ - bread
+ - sausage
+
+Directions:
+ 1. take bread
+ 2. take sausage
+ 3. put sausage on the bread
